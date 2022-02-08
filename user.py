@@ -1,15 +1,3 @@
-# class User:
-#     def __init__(self, first_name, last_name, age):
-#         self.first_name = first_name
-#         self.last_name = last_name
-#         self.age = age
-
-#     def greeting(self):
-#         print(f"Hello my name is {self.first_name}!")
-
-# lauren = User("Lauren", "Odalen", 28)
-# lauren.greeting()
-
 
 # make_withdrawal(self, amount) - have this method decrease the user's balance by the amount specified
 # display_user_balance(self) - have this method print the user's name and account balance to the terminal
