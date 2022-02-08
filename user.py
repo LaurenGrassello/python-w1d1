@@ -5,9 +5,6 @@
 # BONUS: transfer_money(self, other_user, amount) - have this method decrease the user's balance by the amount and add that amount to other other_user's balance
 
 
-from importlib.util import set_loader
-
-
 class User:
     bank_name = "First National Dojo"
 
